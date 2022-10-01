@@ -1,0 +1,13 @@
+body {
+	background: url(https://w.wallhaven.cc/full/6q/wallhaven-6qp6dq.jpg);
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+header {
+	margin-bottom: 90%;
+}
+
