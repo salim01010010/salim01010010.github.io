@@ -1,0 +1,17 @@
+
+body {
+	display: flex;
+	flex-direction: column;
+	background-image: url(https://w.wallhaven.cc/full/kw/wallhaven-kw96x7.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0 auto;
+	background-color: #FFFFFF;
+	top:0px;
+	left:0px;
+	width: 100%;
+	position: absolute;
+	min-height: 100%;
+}
+

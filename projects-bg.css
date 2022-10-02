@@ -1,0 +1,17 @@
+
+body {
+	display: flex;
+	flex-direction: column;
+	background-image: url(https://w.wallhaven.cc/full/n6/wallhaven-n65vk6.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0 auto;
+	background-color: #FFFFFF;
+	top:0px;
+	left:0px;
+	width: 100%;
+	position: absolute;
+	min-height: 100%;
+}
+
